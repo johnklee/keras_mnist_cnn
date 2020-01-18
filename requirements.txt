@@ -1,7 +1,8 @@
 absl-py==0.7.1
+asgiref==3.2.3
 astor==0.8.0
 cycler==0.10.0
-Django==2.2.4
+Django==3.0.2
 gast==0.2.2
 google-pasta==0.1.7
 grpcio==1.22.0
